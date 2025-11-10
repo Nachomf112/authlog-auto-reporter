@@ -1,0 +1,1 @@
+# Solo estándar por ahora; lo dejamos vacío o con comentarios
